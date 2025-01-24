@@ -47,5 +47,12 @@
         "clientId" : "16a063cf308dce2e4ac0",
         "clientSecret" : "ca53b8ba928064a6ff64ef1fde762196625ef90a",
         "theme":"forest"
+    },
+    "briteming.github.io/ghb": {
+        "owner" : "briteming",
+        "repo" : "ghb",
+        "clientId" : "Ov23liOad6s2QJ8kVO7p",
+        "clientSecret" : "541865869249aaba87f3dd3aaeaadb246ef067a8",
+        "theme":"forest"
     }
 }
