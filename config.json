@@ -1,9 +1,9 @@
 {
     "127.0.0.1": {
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "16a063cf308dce2e4ac0",
-        "clientSecret" : "ca53b8ba928064a6ff64ef1fde762196625ef90a",
+        "owner" : "briteming",
+        "repo" : "ghb",
+        "clientId" : "Ov23liyGOYXrvPcTadA3",
+        "clientSecret" : "313d4b8276e9fbf912050d92c7183f2b6f68070b",
         "theme":"forest"
     },
     "ghb-brite.netlify.app": {
