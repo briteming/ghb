@@ -9,8 +9,8 @@
     "ghb-brite.netlify.app": {
         "owner" : "briteming",
         "repo" : "ghb",
-        "clientId" : "Ov23liOad6s2QJ8kVO7p",
-        "clientSecret" : "541865869249aaba87f3dd3aaeaadb246ef067a8",
+        "clientId" : "Ov23liyGOYXrvPcTadA3",
+        "clientSecret" : "313d4b8276e9fbf912050d92c7183f2b6f68070b",
         "theme":"forest"
     }
 }
