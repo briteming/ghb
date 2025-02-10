@@ -1,46 +1,4 @@
 {
-    "2.taon.top" :{
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "3c363d50efbac96d4ccf",
-        "clientSecret" : "234f9f7a7e6a65af635366a535bf295bb783ffd9",
-        "theme":"default"
-    },
-    "taon.top" :{
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "ce05afa47f84a85be6ad",
-        "clientSecret" : "3dba78926e6ae22493a66851270dd2955c754b5f",
-        "theme":"forest"
-    },
-    "6.taon.top" :{
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "ce05afa47f84a85be6ad",
-        "clientSecret" : "3dba78926e6ae22493a66851270dd2955c754b5f",
-        "theme":"forest"
-    },
-    "v6.taon.top" :{
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "ce05afa47f84a85be6ad",
-        "clientSecret" : "3dba78926e6ae22493a66851270dd2955c754b5f",
-        "theme":"forest"
-    },
-    "bless.taontech.workers.dev" :{
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "ce05afa47f84a85be6ad",
-        "clientSecret" : "3dba78926e6ae22493a66851270dd2955c754b5f",
-        "theme":"forest"
-    },
-    "taontech.github.io": {
-        "owner" : "taontech",
-        "repo" : "githublog",
-        "clientId" : "16a063cf308dce2e4ac0",
-        "clientSecret" : "ca53b8ba928064a6ff64ef1fde762196625ef90a",
-        "theme":"forest"
-    },
     "127.0.0.1": {
         "owner" : "taontech",
         "repo" : "githublog",
@@ -48,7 +6,7 @@
         "clientSecret" : "ca53b8ba928064a6ff64ef1fde762196625ef90a",
         "theme":"forest"
     },
-    "briteming.github.io/ghb": {
+    "ghb-brite.netlify.app": {
         "owner" : "briteming",
         "repo" : "ghb",
         "clientId" : "Ov23liOad6s2QJ8kVO7p",
